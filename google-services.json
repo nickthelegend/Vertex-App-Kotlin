@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "492112055819",
+    "project_id": "scream3-1028d",
+    "storage_bucket": "scream3-1028d.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:492112055819:android:53308ead4ca1371430010e",
+        "android_client_info": {
+          "package_name": "com.nickthelegend.myapplication3"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBRrAN-T53FEtAKzQe0O63xsg9WFf4Jq1c"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

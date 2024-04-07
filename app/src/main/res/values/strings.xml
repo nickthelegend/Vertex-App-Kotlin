@@ -1,0 +1,14 @@
+<resources>
+    <string name="app_name">My Application 3</string>
+    <string name="hello_there_welcome_back">Hello there, Welcome Back</string>
+    <string name="sign_in_to_continue">Sign In to Continue</string>
+    <string name="username">Username</string>
+    <string name="password">Password</string>
+    <string name="go">GO</string>
+    <string name="forgot_password">Forgot Password?</string>
+    <string name="new_user_signup">New User? Signup</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="drawer_open">Open Navigation Drawer</string>
+    <string name="drawer_close">Close Navigation Drawer</string>
+</resources>
